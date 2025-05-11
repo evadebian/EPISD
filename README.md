@@ -24,6 +24,8 @@ La respuesta corta es "sí". El código fuente es auditable y modificable; sin e
 
 ## USO DE EPISD
 
+Primero asegúrate de que estás ejecutando el sistema operativo en modo X11 / XOrg. Si no es así, reinicia la máquina y en la pantalla de login, cambia el ajuste de Wayland a X11.
+
 Para ejecutar el script, abre la consola de comandos y teclea:
 
     su root
