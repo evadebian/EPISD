@@ -1,7 +1,7 @@
 # Bienvenid@ a EPISD (Eva's Post Installation Script for Debian).
 ## VERSIÓN 2025.05.03-0.
 (C) 2025 EVA DEBIAN.
-
+No me responsabilizo del mal uso que se le de a esta utilidad o del mal funcionamiento de un equipo tras su uso.
 ---
 
 ## ¿QUÉ ES EPISD?
